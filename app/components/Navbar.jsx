@@ -12,9 +12,10 @@ export default function Navbar() {
         quality={100}
       />
 
-      <h1>Fran's ticketing app</h1>
+      <h1>Fran's ticketing and posts app</h1>
       <Link href="/">Dashboard</Link>
       <Link href="/tickets">Tickets</Link>
+      <Link href="/posts">SW Posts</Link>
     </nav>
   );
 }
