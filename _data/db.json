@@ -22,11 +22,18 @@
       "user_email": "fran.agulto@wpengine.com"
     },
     {
+      "id": "4",
       "title": "Fix Next/Router and WPGraphQL Mutation",
       "body": "GraphQL Mutation not working in headless WordPress with Next.js 13",
       "priority": "high",
-      "user_email": "fran.agulto@wpengine.com",
-      "id": "AREQWXs"
+      "user_email": "fran.agulto@wpengine.com"
+    },
+    {
+      "id": "5",
+      "title": "Get auth client side for WPGraphQL Mutation",
+      "body": "Auth needed client side",
+      "priority": "high",
+      "user_email": "fran.agulto@wpengine.com"
     }
   ]
 }
