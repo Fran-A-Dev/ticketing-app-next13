@@ -130,3 +130,9 @@ form button {
   @apply absolute bottom-0 right-0 
     rounded-tl-md;
 }
+
+.logo-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Adjusts spacing between logo and title */
+}
